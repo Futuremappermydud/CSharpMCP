@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CSharpMCP": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\SteamLibrary\\steamapps\\common\\Beat Saber\\Beat Saber_Data\\Managed\\BeatSaber.Environments.LadyGaga.dll\""
+    }
+  }
+}
